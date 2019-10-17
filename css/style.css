@@ -30,7 +30,7 @@ main {
   /* background-color: #333; */
  
   box-sizing: border-box;
-  box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 5px rgba(256,256 , 256, 0.5);
   border-radius: 5px 5px 0 0;
 }
 .footer {
@@ -39,7 +39,7 @@ main {
   bottom: 0;
   width: 100%;
   box-sizing: border-box;
-  box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.5);
   border-radius: 5px 5px 0 0;
   color: white;
   text-align: center;

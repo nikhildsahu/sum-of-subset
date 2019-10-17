@@ -37,13 +37,13 @@
           <div class="card " style="height: 250px;">
             <div class="card-body">
               <h5 class="card-title">Enter Set contents</h5>
-              <p class="card-text">Input Elements of Set (separated by ,)</p>
-              <br/>
+              <p class="card-text">Input Elements of Set <br> (separated by , (comma) )</p>
+             
               <div class="input-group flex-nowrap">
                   <div class="input-group-prepend">
                     <span class="input-group-text" id="addon-wrapping">Set</span>
                   </div>
-                  <input type="text" class="form-control" placeholder=" Input Elements" aria-label="Elements" aria-describedby="addon-wrapping">
+                  <input type="text" id="set" class="form-control" placeholder=" Input Elements" aria-label="Elements" aria-describedby="addon-wrapping">
                 </div>
             </div>
           </div>
@@ -59,10 +59,10 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text" id="addon-wrapping">Sum</span>
                   </div>
-                  <input type="text" class="form-control" placeholder=" Input Sum Value " aria-label="Sum" aria-describedby="addon-wrapping">
+                  <input type="number" id="sum" class="form-control" placeholder=" Input Sum Value " aria-label="Sum" aria-describedby="addon-wrapping">
                 </div>
                 <br/>
-              <a href="#" class="btn btn-primary" style=" background-color: #333;">Find solution</a>
+              <a onclick="input()"  class="btn btn-primary" style=" background-color: #333; color: #FFFFFF;">Find solution</a>
             </div>
           </div>
         </div>
@@ -70,11 +70,11 @@
         <div class="col-md-4 col-12 col-sm-12" style=" padding: 20px;">
           <div class="card " style="height: 250px;">
             <div class="card-body">
-              <h5 class="card-title">Result</h5>
-              <p class="card-text">Result For Your Input ..</p>
-              <div id="result" style="overflow-y: scroll; height:85px;"></div>
+              <h5 class="card-title">Solution</h5>
+              <p class="card-text">Solution For Your Input ..</p>
+              <p id="result" style="overflow-y: scroll; height:85px;"></p>
              
-              <a href="#" class="btn btn-primary" style=" background-color: #333;">Reset</a>
+              <a onclick="resetValues()" class="btn btn-primary" style=" background-color: #333; color: #FFFFFF;">Reset</a>
             </div>
           </div>
         </div>
@@ -84,10 +84,10 @@
 
     
       <div id='stars'></div>
-      <div id='stars2'></div>
-      <div id='stars3'></div>
+     
+     
       <div class="footer">
-          <p style="font-size: 15px;">Made with <i class="fa fa-heart"  aria-hidden="true">&nbsp;</i> by<a  href="https://nikhildsahu.github.io/" style=" color: #FFFFFF;;"> Nikhil Sahu</a></p>
+          <p style="font-size: 15px; margin-top: 10px;">Made with <i class="fa fa-heart"  aria-hidden="true">&nbsp;</i> by<a  href="https://nikhildsahu.github.io/" style=" color: #FFFFFF;;"> Nikhil Sahu</a></p>
         </div>
     </main> 
     
