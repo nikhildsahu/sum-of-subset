@@ -2,7 +2,7 @@
 var set;
 var sum;
 var setlength;
-var subset =[];
+
 var result=0;
 // value input
 function input()
@@ -30,7 +30,7 @@ function input()
     sum= inputSum;
 
     /// calling for sum of subset
-    
+    var subset =[];
     subsetfind(subset, 0, 0, 0);
     nosolutionCheck();
      
