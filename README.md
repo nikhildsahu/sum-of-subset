@@ -14,7 +14,7 @@
 - DAA Assignment for Sum of Subset Problem .
 
 ### Sum Of Subset Problem
-- Subset sum problem is to find Subset of elements from a given Set whose Sum adds up to a given number K. 
+-  Sum of Subset problem is to find Subset of elements from a given Set whose Sum adds up to a given number K. 
 - Set Contains non-negative values. 
 
 ### Algorithm
