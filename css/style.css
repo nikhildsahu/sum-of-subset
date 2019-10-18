@@ -8,6 +8,7 @@ body {
 
 main {
 
+ 
   position: relative;
   height: 100vh;;
   min-height: 500px;
@@ -27,10 +28,10 @@ main {
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  /* background-color: #333; */
+   /* background-color: #33; */
  
   box-sizing: border-box;
-  box-shadow: 0 0 5px rgba(256,256 , 256, 0.5);
+  box-shadow: 0 0 35px rgba(25, 0, 0, 0.5);
   border-radius: 5px 5px 0 0;
 }
 .footer {

@@ -42,7 +42,9 @@ function resetValues()
     document.getElementById("sum").value="";
     var p=  document.getElementById("result");
     p.textContent="";
+    result= 0;
     console.log("Reset");
+
 }
 
 // Sum of Subset Problem
