@@ -6,7 +6,7 @@
   
 ![](https://img.shields.io/badge/Made%20with-JS-brightgreen?style=flat-square)
 [![](https://img.shields.io/badge/Website-Up-brightgreen?style=flat-square)](https://nikhilsahu.ml/sum-of-subset/)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/nikhildsahu/sum-of-subset/badge)](https://www.codefactor.io/repository/github/nikhildsahu/sum-of-subset?style=flat-square)
 
 </div>
 
