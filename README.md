@@ -1,6 +1,6 @@
 <h1 align="center">Sum of Subset Problem   </h1>
 <h3 align="center"> Implementation of this Backtracking Algorithm in JavaScript  <h3>
-<h4 align="center">Live @ <a href="https://nikhilsahu.ml/sum-of-subset/">https://nikhilsahu.ml/sum-of-subset/</a>   </h4>   
+<h4 align="center">Live @ <a href="https://nikhilsahu.me/sum-of-subset/">https://nikhilsahu.me/sum-of-subset/</a>   </h4>   
 
 <div align="center">
   
@@ -48,7 +48,7 @@
   
 ## Author
 
-[Nikhil Sahu](https://nikhilsahu.ml/) - [@nikhildsahu](https://github.com/nikhildsahu) 
+[Nikhil Sahu](https://nikhilsahu.me/) - [@nikhildsahu](https://github.com/nikhildsahu) 
 
-[https://nikhilsahu.ml/](https://nikhilsahu.ml/)
+[https://nikhilsahu.me/](https://nikhilsahu.me/)
 
